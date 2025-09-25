@@ -6,7 +6,7 @@ RemindBro is your friendly reminder app — a smart and simple way to stay on tr
 
 ## Features
 - 🕑 **Smart Reminders** – Create reminders that notify you at the right time.  
-- 🔔 **Persistent Alerts** – Never miss important tasks with auto-snooze notifications.  
+- 🔔 **Persistent Alerts** – Never miss important tasks with persistent notifications.  
 - 🎨 **Clean Design** – Minimal, modern, and easy-to-use interface.  
 - 📱 **Local Storage** – Your reminders stay on your device.  
 

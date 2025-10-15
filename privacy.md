@@ -3,7 +3,7 @@ title: Privacy Policy
 ---
 
 # Privacy Policy for RemindBro
-**Effective Date:** September 21, 2026
+**Effective Date:** September 21, 2025
 **Contact:** broapps.team@gmail.com
 
 RemindBro app helps you create smart reminders.
